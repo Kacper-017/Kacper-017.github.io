@@ -1,0 +1,8 @@
+name: Your Name
+description: Web Developer
+url: "https://yourusername.github.io"
+baseurl: ""
+twitter_username: your_twitter
+github_username: your_github
+
+theme: minima
