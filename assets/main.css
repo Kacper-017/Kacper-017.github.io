@@ -1,6 +1,12 @@
 /* Add your custom styles here */
 body {
   font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
 }
 
 header, nav, main, footer {
@@ -19,6 +25,7 @@ nav li {
 
 article {
   margin-bottom: 30px;
+  text-align: center;
 }
 
 img {
